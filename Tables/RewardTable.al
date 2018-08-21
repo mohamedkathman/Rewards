@@ -25,7 +25,7 @@ table 50100 Reward
         field(5;"Last Modified Date";Date)
         {
             // The "Editable" property sets a value that indicates whether the field can be edited 
-            // through the UI. Test Git
+            // through the UI.
             Editable = false;
         }
     }
